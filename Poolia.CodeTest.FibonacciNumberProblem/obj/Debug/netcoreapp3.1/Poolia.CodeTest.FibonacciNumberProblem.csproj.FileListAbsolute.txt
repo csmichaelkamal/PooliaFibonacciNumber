@@ -1,0 +1,11 @@
+C:\MOOC\GitRepos\Poolia.CodeTest\Poolia.CodeTest.FibonacciNumberProblem\bin\Debug\netcoreapp3.1\Poolia.CodeTest.FibonacciNumberProblem.exe
+C:\MOOC\GitRepos\Poolia.CodeTest\Poolia.CodeTest.FibonacciNumberProblem\bin\Debug\netcoreapp3.1\Poolia.CodeTest.FibonacciNumberProblem.deps.json
+C:\MOOC\GitRepos\Poolia.CodeTest\Poolia.CodeTest.FibonacciNumberProblem\bin\Debug\netcoreapp3.1\Poolia.CodeTest.FibonacciNumberProblem.runtimeconfig.json
+C:\MOOC\GitRepos\Poolia.CodeTest\Poolia.CodeTest.FibonacciNumberProblem\bin\Debug\netcoreapp3.1\Poolia.CodeTest.FibonacciNumberProblem.runtimeconfig.dev.json
+C:\MOOC\GitRepos\Poolia.CodeTest\Poolia.CodeTest.FibonacciNumberProblem\bin\Debug\netcoreapp3.1\Poolia.CodeTest.FibonacciNumberProblem.dll
+C:\MOOC\GitRepos\Poolia.CodeTest\Poolia.CodeTest.FibonacciNumberProblem\bin\Debug\netcoreapp3.1\Poolia.CodeTest.FibonacciNumberProblem.pdb
+C:\MOOC\GitRepos\Poolia.CodeTest\Poolia.CodeTest.FibonacciNumberProblem\obj\Debug\netcoreapp3.1\Poolia.CodeTest.FibonacciNumberProblem.csprojAssemblyReference.cache
+C:\MOOC\GitRepos\Poolia.CodeTest\Poolia.CodeTest.FibonacciNumberProblem\obj\Debug\netcoreapp3.1\Poolia.CodeTest.FibonacciNumberProblem.AssemblyInfoInputs.cache
+C:\MOOC\GitRepos\Poolia.CodeTest\Poolia.CodeTest.FibonacciNumberProblem\obj\Debug\netcoreapp3.1\Poolia.CodeTest.FibonacciNumberProblem.AssemblyInfo.cs
+C:\MOOC\GitRepos\Poolia.CodeTest\Poolia.CodeTest.FibonacciNumberProblem\obj\Debug\netcoreapp3.1\Poolia.CodeTest.FibonacciNumberProblem.dll
+C:\MOOC\GitRepos\Poolia.CodeTest\Poolia.CodeTest.FibonacciNumberProblem\obj\Debug\netcoreapp3.1\Poolia.CodeTest.FibonacciNumberProblem.pdb

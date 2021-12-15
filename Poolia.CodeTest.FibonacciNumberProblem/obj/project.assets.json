@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MOOC\\GitRepos\\Package Challenge\\PackageChallenge\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem\\Poolia.CodeTest.FibonacciNumberProblem.csproj",
+      "projectUniqueName": "C:\\MOOC\\GitRepos\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem\\Poolia.CodeTest.FibonacciNumberProblem.csproj",
       "projectName": "Poolia.CodeTest.FibonacciNumberProblem",
-      "projectPath": "C:\\MOOC\\GitRepos\\Package Challenge\\PackageChallenge\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem\\Poolia.CodeTest.FibonacciNumberProblem.csproj",
+      "projectPath": "C:\\MOOC\\GitRepos\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem\\Poolia.CodeTest.FibonacciNumberProblem.csproj",
       "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-      "outputPath": "C:\\MOOC\\GitRepos\\Package Challenge\\PackageChallenge\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem\\obj\\",
+      "outputPath": "C:\\MOOC\\GitRepos\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

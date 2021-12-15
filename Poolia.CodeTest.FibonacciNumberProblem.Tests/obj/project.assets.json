@@ -4634,11 +4634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MOOC\\GitRepos\\Package Challenge\\PackageChallenge\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem.Tests\\Poolia.CodeTest.FibonacciNumberProblem.Tests.csproj",
+      "projectUniqueName": "C:\\MOOC\\GitRepos\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem.Tests\\Poolia.CodeTest.FibonacciNumberProblem.Tests.csproj",
       "projectName": "Poolia.CodeTest.FibonacciNumberProblem.Tests",
-      "projectPath": "C:\\MOOC\\GitRepos\\Package Challenge\\PackageChallenge\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem.Tests\\Poolia.CodeTest.FibonacciNumberProblem.Tests.csproj",
+      "projectPath": "C:\\MOOC\\GitRepos\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem.Tests\\Poolia.CodeTest.FibonacciNumberProblem.Tests.csproj",
       "packagesPath": "C:\\Users\\Michael\\.nuget\\packages\\",
-      "outputPath": "C:\\MOOC\\GitRepos\\Package Challenge\\PackageChallenge\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem.Tests\\obj\\",
+      "outputPath": "C:\\MOOC\\GitRepos\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4657,8 +4657,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\MOOC\\GitRepos\\Package Challenge\\PackageChallenge\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem\\Poolia.CodeTest.FibonacciNumberProblem.csproj": {
-              "projectPath": "C:\\MOOC\\GitRepos\\Package Challenge\\PackageChallenge\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem\\Poolia.CodeTest.FibonacciNumberProblem.csproj"
+            "C:\\MOOC\\GitRepos\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem\\Poolia.CodeTest.FibonacciNumberProblem.csproj": {
+              "projectPath": "C:\\MOOC\\GitRepos\\Poolia.CodeTest\\Poolia.CodeTest.FibonacciNumberProblem\\Poolia.CodeTest.FibonacciNumberProblem.csproj"
             }
           }
         }

@@ -13,7 +13,7 @@
             var secondNumber = 1;
             var fibonacciNumber = 0;
 
-            for (int i = 0; i < position; i++)
+            for (int i = 1; i < position; i++)
             {
                 fibonacciNumber = firstNumber + secondNumber;
                 firstNumber = secondNumber;
